@@ -36,6 +36,9 @@ To use the Script you have to execute
 python main.py
 ´´´
 
+### Sidenote
+It can be important to create an "images" folder to use the script. Do it if you get error messages.
+
 ## Modify the images to use with yolo11
 
 You can change the Script inside the main.py to change the Image which you intrested to use.
