@@ -1,0 +1,6 @@
+venv
+yolo11n.pt
+
+*.png
+*.jpg
+*.jpeg
